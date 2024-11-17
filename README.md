@@ -24,7 +24,7 @@ Sobre este arquivo:
 Neste arquivo, basicamente há 10 atributos. Ele foi ordenado com base na classificação que foi decidida com base em "seguidores".
 
 | nome da coluna | Descrição |
-|----------------|------------|
+| ------------ | ------------ |
 
 | rank: | Classificação do Influenciador com base no número de seguidores que ele tem |
 
