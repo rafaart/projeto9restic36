@@ -10,8 +10,9 @@ O link desta base e mais detalhes se encontra em: https://www.kaggle.com/dataset
 
 # Instalação▶️
 
-
+"source": [
         "<a href=\"https://colab.research.google.com/github/rafaart/projeto9restic36/blob/develop/AVALIA%C3%87%C3%83O_9_RegLinear.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        ]
 # Sobre a base de dados🎲
 Este conjunto de dados reúne informações sobre os principais influenciadores do Instagram, abrangendo uma variedade de 200 tipos diferentes de influenciadores. Ele inclui perfis com grande número de seguidores, alto engajamento e amplo alcance em suas postagens.
 
