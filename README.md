@@ -45,4 +45,6 @@ Neste arquivo, basicamente há 10 atributos. Ele foi ordenado com base na classi
 | total de curtidas | Total de curtidas que o usuário obteve em seus posts. (em bilhões) |
 | country | País ou região de origem do usuário. |
 
+# Autores: 😎😎
+Rafael Santos Souza & Yuri Oliveira dos Santos
     
