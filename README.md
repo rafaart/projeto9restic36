@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-# :projeto9restic36:
-</div>
+
+#                                 :projeto9restic36:
+
 
 # Projeto: Implementação e Análise do Algoritmo de Regressão Linear
 
