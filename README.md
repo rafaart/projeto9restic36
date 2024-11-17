@@ -9,6 +9,9 @@ Este notebook contempla a criação de um modelo preditivo usando o algoritmo de
 O link desta base e mais detalhes se encontra em: https://www.kaggle.com/datasets/surajjha101/top-instagram-influencers-data-cleaned
 
 # Instalação▶️
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaart/projeto9restic36/edit/develop/AVALIA%C3%87%C3%83O_9_RegLinear.ipynb)
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rafaart/projeto9restic36/blob/develop/AVALIA%C3%87%C3%83O_9_RegLinear.ipynb)
 
 # Sobre a base de dados🎲
