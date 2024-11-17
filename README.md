@@ -23,24 +23,27 @@ Sobre este arquivo:
 
 Neste arquivo, basicamente há 10 atributos. Ele foi ordenado com base na classificação que foi decidida com base em "seguidores".
 
-rank: Classificação do Influenciador com base no número de seguidores que ele tem
+| nome da coluna | Descrição |
+|----------------|------------|
 
-channel_info: Nome de usuário do Instagrammer
+| rank: | Classificação do Influenciador com base no número de seguidores que ele tem |
 
-influence score: Pontuação de influência dos usuários. É calculado com base em menções, importância e popularidade
+| channel_info | Nome de usuário do Instagrammer |
 
-posts: Número de posts que eles fizeram até agora
+| influence score | Pontuação de influência dos usuários. É calculado com base em menções, importância e popularidade | 
 
-followers: Número de seguidores do usuário
+| posts |  Número de posts que eles fizeram até agora | 
 
-avg_likes: Média de curtidas em posts do Instagrammer (total de curtidas/total de posts)
+| followers | Número de seguidores do usuário| 
 
-60_day_eng_rate: Taxa de engajamento dos últimos 60 dias do Instagrammer como facção de engajamentos que eles fizeram até agora
+| avg_likes | Média de curtidas em posts do Instagrammer (total de curtidas/total de posts) |
 
-new_post_avg_like: Média de curtidas que eles têm em novos posts
+| 60_day_eng_rate | Taxa de engajamento dos últimos 60 dias do Instagrammer como facção de engajamentos que eles fizeram até agora |
 
-total de curtidas: Total de curtidas que o usuário obteve em seus posts. (em bilhões)
+| new_post_avg_like | Média de curtidas que eles têm em novos posts |
 
-country: País ou região de origem do usuário.
+| total de curtidas | Total de curtidas que o usuário obteve em seus posts. (em bilhões) |
+
+| country | País ou região de origem do usuário. |
 
     
