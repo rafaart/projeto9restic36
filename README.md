@@ -45,6 +45,10 @@ Neste arquivo, basicamente há 10 atributos. Ele foi ordenado com base na classi
 | total de curtidas | Total de curtidas que o usuário obteve em seus posts. (em bilhões) |
 | country | País ou região de origem do usuário. |
 
+
+# Tecnologias Utilizadas: 🚀
+Os códigos no notebook foram escritos na linguagem Python, a primeira célula de código encontrará os imports com todas bibliotecas e modulos necessários para reproduzir o projeto.
+
 # Autores: 😎😎
 Rafael Santos Souza & Yuri Oliveira dos Santos
     
