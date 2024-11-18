@@ -13,7 +13,7 @@ Você pode fazer um fork do repositório e iniciar edições no arquivo por cont
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaart/projeto9restic36/edit/develop/AVALIA%C3%87%C3%83O_9_RegLinear.ipynb)
 
-O notebook foi originalmente feito no Google Coolab e vc podeiniciar as edições fazendo uma cópia do arquivo original no link abaixo
+O notebook foi originalmente feito no Google Coolab e vocÊ pode iniciar as edições fazendo uma cópia do arquivo original no link abaixo
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rafaart/projeto9restic36/blob/develop/AVALIA%C3%87%C3%83O_9_RegLinear.ipynb)
 
@@ -50,5 +50,7 @@ Neste arquivo, basicamente há 10 atributos. Ele foi ordenado com base na classi
 Os códigos no notebook foram escritos na linguagem Python, a primeira célula de código encontrará os imports com todas bibliotecas e modulos necessários para reproduzir o projeto.
 
 # Autores: 😎😎
-Rafael Santos Souza & Yuri Oliveira dos Santos
+Rafael Santos Souza :octocat: : https://github.com/rafaart
+& 
+Yuri Oliveira dos Santos :octocat: : https://github.com/YuriGith
     
